@@ -1,0 +1,23 @@
+/*
+* Jasmine Middaugh
+* 23 October 2018
+* Schedule Table Project and A table with my schedule for the first semester
+*/
+
+/* The universal selector */
+
+* { 
+
+}
+
+/* Body attributes here */
+
+body {
+
+}
+table, td, th { border: 1px solid blue; }
+table { border-collapse: collapse; }
+thead { background-color: skyblue; }
+tbody { background-color: paleturquoise; }
+tfoot { background-color: skyblue; }
+{ background-color: whitesmoke }
